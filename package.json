@@ -6,6 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/cache": "^11.13.5",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.8",
+    "@mui/material-nextjs": "^6.1.8",
     "@reduxjs/toolkit": "^2.2.0",
     "next": "latest",
     "react": "^18.2.0",

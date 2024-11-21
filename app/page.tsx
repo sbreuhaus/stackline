@@ -1,8 +1,11 @@
+
 import type { Metadata } from "next";
-import { Counter } from "./components/counter/Counter";
+import { ProductsWrapper } from "./components/productsWrapper/ProductsWrapper";
 
 export default function IndexPage() {
-  return <Counter />;
+  return (
+      <ProductsWrapper />
+  )
 }
 
 export const metadata: Metadata = {

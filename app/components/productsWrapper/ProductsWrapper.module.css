@@ -1,0 +1,6 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    background-color: #F6F8FA;
+    padding: 20px;
+}
